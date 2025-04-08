@@ -1,6 +1,8 @@
 ---
-title: "laquipe"
+title: "Laboratório de química do Pescado"
 ---
+
+Este é o sire do laquipe
 
 ```{r}
 library(reactable)

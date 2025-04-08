@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "laquipe",
+    "title": "Laboratório de química do Pescado",
     "section": "",
-    "text": "library(reactable)\n\n\nreactable(infert)\n\n\n\n\n\n\nplot(women)"
+    "text": "Este é o sire do laquipe\n\nlibrary(reactable)\n\n\nreactable(infert)\n\n\n\n\n\n\nplot(women)"
   },
   {
     "objectID": "about.html",

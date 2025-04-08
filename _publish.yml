@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: dce648d2-00bb-4a61-8ae0-f63a0fc8a7b9
+      url: 'https://astucias-no-r.quarto.pub/laquipe'

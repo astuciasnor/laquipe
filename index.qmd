@@ -6,6 +6,8 @@ title: "Laboratório de química do Pescado"
 
 Este é o site do laquipe XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+Atualização teste !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ```{r}
 library(reactable)
 ```

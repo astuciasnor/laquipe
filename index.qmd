@@ -2,7 +2,9 @@
 title: "Laboratório de química do Pescado"
 ---
 
-Este é o sire do laquipe
+![](images/clipboard-133033210.png)
+
+Este é o site do laquipe
 
 ```{r}
 library(reactable)

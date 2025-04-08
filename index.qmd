@@ -1,0 +1,15 @@
+---
+title: "laquipe"
+---
+
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(infert)
+```
+
+```{r}
+plot(women)
+```

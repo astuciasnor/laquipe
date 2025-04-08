@@ -4,7 +4,7 @@ title: "Laboratório de química do Pescado"
 
 ![](images/clipboard-133033210.png)
 
-Este é o site do laquipe
+Este é o site do laquipe XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ```{r}
 library(reactable)

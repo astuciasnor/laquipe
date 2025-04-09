@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Laboratório de Química do Pescado - LAQUIPE",
+    "objectID": "linhas.html",
+    "href": "linhas.html",
+    "title": "Linhas de Pesquisa",
     "section": "",
-    "text": "Seja bem-vindo(a) ao website do LAQUIPE - Laboratório de Química deo Pescado (LAQUIPE) - da Faculdade de Engenharia de Pescado do Instituto de Estudos Costeiros, localizado no Campus Universitário de Bragança da UFPA.\n\n\nlibrary(reactable)\n\n\nTabelaGráfico\n\n\n\nreactable(infert)\n\n\n\n\n\n\n\n\nplot(women)\n\n\n\n\n\n\n\n\n\n\n\ngit branch -m master main\ngit fetch origin\ngit branch -u origin/main main\ngit remote set-head origin -a"
+    "text": "Linha 1: Processos TecnológicosLinha 2: Análises QuímicasLinha 3: Análise Estatísticas"
+  },
+  {
+    "objectID": "artigos.html",
+    "href": "artigos.html",
+    "title": "Artigos",
+    "section": "",
+    "text": "Segue lista de artigos:"
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Laboratório de Química do Pescado - LAQUIPE",
+    "section": "",
+    "text": "Seja bem-vindo(a) ao website do LAQUIPE - Laboratório de Química deo Pescado (LAQUIPE) - da Faculdade de Engenharia de Pescado do Instituto de Estudos Costeiros, localizado no Campus Universitário de Bragança da UFPA.\n\n\nlibrary(reactable)\n\n\nTabelaGráfico\n\n\n\nreactable(infert)\n\n\n\n\n\n\n\n\nplot(women)\n\n\n\n\n\n\n\n\n\n\n\ngit branch -m master main\ngit fetch origin\ngit branch -u origin/main main\ngit remote set-head origin -a"
   }
 ]

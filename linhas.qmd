@@ -1,0 +1,11 @@
+---
+title: "Linhas de Pesquisa"
+---
+
+::: panel-tabset
+## Linha 1: Processos Tecnológicos
+
+## Linha 2: Análises Químicas
+
+## Linha 3: Análise Estatísticas
+:::

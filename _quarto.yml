@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "laquipe"
+  title: "LAQUIPE"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - artigos.qmd
+      - linhas.qmd
 
 format:
   html:

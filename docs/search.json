@@ -25,6 +25,6 @@
     "href": "index.html",
     "title": "Laboratório de Química do Pescado - LAQUIPE",
     "section": "",
-    "text": "Seja bem-vindo(a) ao website do LAQUIPE - Laboratório de Química deo Pescado (LAQUIPE) - da Faculdade de Engenharia de Pescado do Instituto de Estudos Costeiros, localizado no Campus Universitário de Bragança da UFPA.\n\n\nlibrary(reactable)\n\n\nTabelaGráfico\n\n\n\nreactable(infert)\n\n\n\n\n\n\n\n\nplot(women)\n\n\n\n\n\n\n\n\n\n\n\ngit branch -m master main\ngit fetch origin\ngit branch -u origin/main main\ngit remote set-head origin -a"
+    "text": "Seja bem-vindo(a) ao website do LAQUIPE - Laboratório de Química deo Pescado (LAQUIPE) - da Faculdade de Engenharia de Pescado do Instituto de Estudos Costeiros, localizado no Campus Universitário de Bragança da UFPA.\n\nlibrary(reactable)\n\n\nTabelaGráfico\n\n\n\nreactable(infert)\n\n\n\n\n\n\n\n\nplot(women)\n\n\n\n\n\n\n\n\n\n\n\ngit branch -m master main\ngit fetch origin\ngit branch -u origin/main main\ngit remote set-head origin -a"
   }
 ]

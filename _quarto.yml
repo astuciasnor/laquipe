@@ -4,7 +4,9 @@ project:
 
 website:
   title: "LAQUIPE"
+  favicon: assets/logo-pequena.png
   navbar:
+    logo: assets/logo-pequena.png
     left:
       - href: index.qmd
         text: Home
@@ -14,7 +16,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

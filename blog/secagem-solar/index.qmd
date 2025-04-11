@@ -1,0 +1,11 @@
+---
+title: "Secagem de camarão por Secador Solar por Convexão Forçada de ar"
+author: "Evaldo Martins da Silva"
+date: 2024-04-11
+categories: [tecnolgia, pescado, bioquímica]
+image: secador-camarao.png
+---
+
+![Secador solar com convecção forçada de ar](secador-camarao.png){width="346"}
+
+A Secagem Solar por Convecção forçada de ar

@@ -1,0 +1,9 @@
+---
+title: "Blog do LAQUIPE"
+listing: 
+  sort: "date desc"
+---
+
+# Últimas postagens do LAQUIPE
+
+Aqui você encontrará textos, novidades, experimentos e reflexões científicas da equipe.

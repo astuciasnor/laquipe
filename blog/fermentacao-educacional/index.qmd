@@ -1,0 +1,36 @@
+---
+title: "Fermentação como Ferramenta Educacional"
+author: "Ingrid Luiza Campos da Silva & Evaldo Martins da Silva"
+date: 2025-04-11
+categories: [fermentação, ensino, engenharia de pesca]
+image: fermentacao.png
+---
+
+## Introdução
+
+Este experimento foi desenvolvido como ferramenta educacional para o curso de Engenharia de Pesca na Universidade Federal do Pará. O objetivo principal foi demonstrar, de forma prática, os conceitos bioquímicos da fermentação alcoólica, utilizando a levedura *Saccharomyces cerevisiae* e diferentes substratos (sacarose e amido), com e sem a adição da enzima α-amilase.
+
+![Montagem experimental de fermentação](fermentacao.png){alt="Montagem experimental de fermentação" width="291"}
+
+## 🧪 Materiais e Métodos
+
+O sistema foi composto por garrafas PET interligadas, onde foram introduzidas soluções de sacarose, amido com e sem enzima, além da suspensão de leveduras previamente ativadas. A produção de CO₂ foi monitorada indiretamente por meio de borbulhamento em tubos com indicador de pH (azul de bromotimol), permitindo acompanhar a acidificação do meio conforme o gás reagia com a água.
+
+## 🔬 Resultados
+
+-   A sacarose promoveu uma fermentação mais rápida e visível já nos primeiros 10 minutos.
+-   O amido com enzima só começou a produzir CO₂ após a temperatura atingir cerca de 60 °C, condição ideal para a ação da α-amilase.
+-   A produção de gás foi maior no sistema com amido + enzima, após o início da hidrólise eficiente.
+-   A mudança de cor do indicador (verde para amarelo) evidenciou a liberação de CO₂ e a consequente acidificação do meio.
+
+## 🎓 Aplicações no Ensino
+
+A montagem experimental permitiu aos alunos correlacionar dados visuais e quantitativos com os fenômenos bioquímicos, desenvolvendo habilidades práticas e reflexivas. Além disso, a comparação entre diferentes substratos reforçou a importância da atividade enzimática na liberação de açúcares fermentáveis — um conhecimento diretamente aplicável em processos industriais, como produção de rações ou fermentação de resíduos do pescado.
+
+## 📚 Referências
+
+-   Madigan, M. T. et al. *Brock Biology of Microorganisms*, 2022.
+-   Nelson, D. L. & Cox, M. M. *Lehninger Principles of Biochemistry*, 2021.
+-   Stanbury, P. F. et al. *Principles of Fermentation Technology*, 2017.
+-   Basso, T. O. et al. *Metabolic Engineering*, 2011.
+-   Gupta, R. et al. *Process Biochemistry*, 2003.

@@ -13,7 +13,8 @@ website:
       - about.qmd
       - artigos.qmd
       - linhas.qmd
-      - blog.qmd
+      - text: Blog
+        href: blog/index.qmd
 
 format:
   html:

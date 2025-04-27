@@ -5,9 +5,9 @@ title: "Linhas de Pesquisa"
 ::: panel-tabset
 ## Linha 1 - Processamento de Bio-recursos Aquáticos
 
-![](images/clipboard-822417708.png){width="350"}
-
 A linha de pesquisa em **Processamento de Biorecursos Aquáticos** explora o desenvolvimento de técnicas e processos tecnológicos para **transformação sustentável** de recursos de origem aquática em produtos de alto valor agregado.
+
+![Aproveitamento de resíduos de pescado para produção de subprodutos com valor agregado (verde)](images/aproveitamento-residuios-pescados.png){fig-align="center" width="608"}
 
 O foco principal é agregar valor, melhorar a qualidade, conservar as características nutricionais e promover o aproveitamento integral de pescados e subprodutos da pesca e aquicultura.
 
@@ -60,20 +60,20 @@ A pesquisa em processamento de biorecursos aquáticos traz benefícios como:
 
 -   **Redução de impactos ambientais** pela transformação de resíduos.
 
-![Produção de Quitosana a partir de exoesqueleto de crustáceos](images/clipboard-985544899.png){fig-align="center" width="490"}
+![Produção de Quitosana a partir de exoesqueleto de crustáceos](images/producao-quitosana.png){fig-align="center" width="529"}
 
-![Produção de gelatina de pele de peixes](images/colageno-gelatina.png){fig-align="center" width="491"}
+![Produção de gelatina de pele de peixes](images/colageno-gelatina.png){fig-align="center" width="528"}
 
-![Produçao de Hidrolisados de Pescados](images/peptídeos.png){fig-align="center" width="492"}
+![Produçao de Hidrolisados de Pescados](images/peptídeos.png){fig-align="center" width="516"}
 
-![Produção de Óleo de Peixe e HPP](images/hpp-oelo.png){fig-align="center" width="491"}
+![Produção de Óleo de Peixe e HPP](images/hpp-oelo.png){fig-align="center" width="514"}
 
 **Palavras-chave estratégicas:**\
 *Biorrefinaria de pescado, aproveitamento de resíduos pesqueiros, biomoléculas marinhas, colágeno de peixe, quitosana, sustentabilidade na pesca, subprodutos da indústria pesqueira, processos biotecnológicos, óleo de pescado, hidrolisados proteicos, tecnologias limpas.*
 
 ## Linha de Pesquisa 2: 🧪 Quimiometria Aplicada a Biorecursos Aquáticos
 
-![](images/clipboard-3413463858.png){fig-align="center" width="443"}
+![](images/clipboard-3413463858.png){fig-align="center" width="466"}
 
 A linha de pesquisa em **Quimiometria Aplicada a Biorecursos Aquáticos** busca integrar técnicas analíticas avançadas e métodos estatísticos multivariados para a **extração de informações químicas relevantes** de organismos e produtos aquáticos.
 
@@ -121,29 +121,33 @@ A combinação da quimiometria com a ciência dos biorecursos aquáticos represe
 -   **Adicionar valor** aos produtos pesqueiros e aquícolas, com foco em qualidade e rastreabilidade.
 -   **Promover a sustentabilidade** no uso de recursos naturais, com técnicas analíticas não destrutivas.
 
-## Linha 3 - Secagem Solar Aplicada ao Processamento de Biorrecursos
+## Linha 3 - Secagem Solar Sustentável de Bioprodutos Pesqueiros
 
-![](images/clipboard-1480639932.png){width="272"}
+A secagem solar com painéis fotovoltaicos é uma tecnologia limpa que combina o uso da radiação solar para aquecimento e a geração de energia para ventilação forçada, promovendo a desidratação eficiente de produtos pesqueiros, agrícolas e biológicos. O sistema otimiza o processo de secagem, reduzindo o teor de umidade em menor tempo, preservando a qualidade dos produtos e minimizando o consumo de energia não renovável, contribuindo para a conservação e agregação de valor de bioprodutos.
 
-A secagem solar com auxílio de painéis fotovoltaicos representa uma tecnologia limpa e sustentável para o processamento de biorecursos, especialmente produtos pesqueiros, agrícolas e derivados de biomassa. Essa metodologia consiste em utilizar a energia solar de maneira híbrida: tanto para o aquecimento do ar (que promove a desidratação dos materiais), quanto para alimentar ventiladores que controlam a circulação do ar no interior do secador.
+![Secador Solar para Bioprodutos Pesqueiros](images/secador-solar.png){fig-align="center" width="683"}
 
-O sistema é composto basicamente por um coletor solar térmico, que aquece o ar ambiente, e por um painel fotovoltaico, que gera eletricidade para ventiladores de exaustão forçada. Esse arranjo permite melhorar significativamente a eficiência do processo de secagem, promovendo:
+O secador solar desenvolvido pelo Laboratório de Química do Pescado (LAQUIPE) é uma tecnologia sustentável voltada para a conservação e agregação de valor a produtos pesqueiros, como camarões. O equipamento combina o aproveitamento da radiação solar direta com ventilação forçada alimentada por painel fotovoltaico, promovendo um processo de secagem mais rápido, uniforme e ambientalmente responsável.
 
--   Redução do teor de umidade em menor tempo;
+A estrutura é composta por uma bandeja perfurada que facilita o escoamento do ar aquecido, paredes internas refletoras que intensificam o efeito estufa e uma tampa de vidro que maximiza a retenção de calor. O painel solar gera energia para acionar uma ventoinha, garantindo a renovação do ar e impedindo a saturação da umidade interna, o que preserva melhor as características físicas, químicas e sensoriais dos bioprodutos.
 
--   Maior controle sobre a temperatura e a renovação do ar;
+Este sistema representa uma alternativa eficiente para a valorização de pescados e subprodutos, alinhando inovação tecnológica, sustentabilidade energética e melhoria da qualidade final dos produtos.
 
--   Preservação das propriedades físico-químicas e sensoriais dos produtos;
+🌞 **Aproveitamento da energia solar:**\
+Radiação solar direta para aquecimento e secagem eficiente.
 
--   Minimização do consumo de fontes de energia não renováveis.
+⚡ **Painel fotovoltaico:**\
+Geração de energia limpa para acionar ventilação forçada.
 
-Entre os principais bioprodutos beneficiados pela secagem solar destacam-se pescados, frutos do mar, frutas, plantas medicinais e subprodutos industriais de origem biológica, visando tanto a conservação como a agregação de valor comercial.
+🍤 **Secagem de camarões e produtos pesqueiros:**\
+Preservação de qualidade nutricional, cor e textura.
 
-Esta linha de pesquisa visa desenvolver, otimizar e aplicar técnicas de secagem solar sustentável, alinhando eficiência energética, qualidade de produto final e responsabilidade ambiental.
+♻️ **Tecnologia sustentável:**\
+Redução do consumo energético e aproveitamento integral de recursos naturais.
 
 ## Linha 4 — Grupo de Pesquisa em Estatística Aplicada e Ciência de Dados em R
 
-![](images/clipboard-1207951533.png){width="320"}
+![](images/r-ciencia-dados.png){fig-align="center" width="446"}
 
 🎯 **Missão:**\
 Desenvolver rotinas computacionais em R, fortalecer a formação acadêmica e impulsionar a pesquisa aplicada nas áreas de Ciências Agrárias e Biológicas no Campus de Bragança.

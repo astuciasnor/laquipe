@@ -4,13 +4,13 @@ title: "Laboratório de Química do Pescado - LAQUIPE"
 
 ## Boas-vindas
 
-![](assets/logo_laquipe.jpg){fig-align="center" width="271"}
-
-Seja bem-vindo(a) ao website do **LAQUIPE** - Laboratório de Química deo Pescado (LAQUIPE) - da Faculdade de Engenharia de Pescado do Instituto de Estudos Costeiros, localizado no Campus Universitário de Bragança da UFPA.
+|  |  |
+|----|----|
+| ![](images/clipboard-744475019.jpeg) | Seja bem-vindo(a) ao website do **LAQUIPE** - Laboratório de Química deo Pescado (LAQUIPE) - da Faculdade de Engenharia de Pescado do Instituto de Estudos Costeiros, localizado no Campus Universitário de Bragança da UFPA. |
 
 |  |  |
 |------------------------------------|------------------------------------|
-| ![IECOS](images/logo_iecos.png){width="148"} | ![UFPA](images/ufpa.png){width="158" height="148"} |
+| ![IECOS](images/logo_iecos.png){width="224"} | ![UFPA](images/ufpa.png){width="222" height="223"} |
 
 ## Localização
 

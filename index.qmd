@@ -2,29 +2,22 @@
 title: "Laboratório de Química do Pescado - LAQUIPE"
 ---
 
-![](assets/logo_laquipe.jpg){fig-align="left" width="194"}
+## Boas-vindas
+
+![](assets/logo_laquipe.jpg){fig-align="center" width="271"}
 
 Seja bem-vindo(a) ao website do **LAQUIPE** - Laboratório de Química deo Pescado (LAQUIPE) - da Faculdade de Engenharia de Pescado do Instituto de Estudos Costeiros, localizado no Campus Universitário de Bragança da UFPA.
 
-```{r}
-library(reactable)
-```
+|  |  |
+|------------------------------------|------------------------------------|
+| ![IECOS](images/logo_iecos.png){width="148"} | ![UFPA](images/ufpa.png){width="158" height="148"} |
 
-::: panel-tabset
-## Tabela
+## Localização
 
-```{r}
-reactable(infert)
-```
+O LAQUIPE está localizado na cidade de Bragança-PA, a 200 Km de Belém.
 
-## Gráfico
+![[Localização](https://maps.app.goo.gl/pbVeJAPCz73qdsE36){target="_blanck"} do LAQUIPE](images/localizacao.png){width="268"}
 
-```{r}
-plot(women)
-```
-:::
+## Responsável Técnico
 
-git branch -m master main\
-git fetch origin\
-git branch -u origin/main main\
-git remote set-head origin -a
+Prof. Dr. Evaldo Martins da Silva

@@ -1,9 +1,21 @@
 ---
-title: "About"
+title: "Sobre"
 ---
 
-About this site
+O Laboratório de Química do Pescado (LAQUIPE) é um espaço dedicado à pesquisa, desenvolvimento e inovação no aproveitamento de recursos pesqueiros e biológicos. Nosso trabalho integra ciência, tecnologia e sustentabilidade para agregar valor a subprodutos da pesca e transformar conhecimento em soluções para a sociedade.
 
-```{r}
-1 + 1
-```
+Atuamos em diversas frentes, como:
+
+-   Caracterização físico-química de pescados e seus derivados
+
+-   Desenvolvimento de produtos como colágeno, gelatina, quitosana, hidrolisados proteicos e óleo de peixe
+
+-   Processos sustentáveis de secagem solar de bioprodutos
+
+-   Aplicação de bioprocessos e tecnologias verdes no aproveitamento de rejeitos da pesca
+
+-   Estudos de qualidade, estabilidade e shelf-life de compostos bioativos
+
+O LAQUIPE busca ser referência no desenvolvimento de tecnologias limpas e no fortalecimento de cadeias produtivas sustentáveis, aliando inovação científica e compromisso socioambiental.
+
+> 💬 *"Transformamos o potencial dos recursos naturais em inovação, sustentabilidade e valor para a sociedade."*

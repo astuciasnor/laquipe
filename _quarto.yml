@@ -18,7 +18,7 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: journal
     css: styles.css
     toc: true
 

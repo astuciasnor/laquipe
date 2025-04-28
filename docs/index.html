@@ -128,9 +128,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#boas-vindas" id="toc-boas-vindas" class="nav-link active" data-scroll-target="#boas-vindas">Boas-vindas</a></li>
-  <li><a href="#localização" id="toc-localização" class="nav-link" data-scroll-target="#localização">Localização</a></li>
-  <li><a href="#responsável-técnico" id="toc-responsável-técnico" class="nav-link" data-scroll-target="#responsável-técnico">Responsável Técnico</a></li>
+  <li><a href="#boas-vindas" id="toc-boas-vindas" class="nav-link active" data-scroll-target="#boas-vindas">✨ Boas-vindas</a></li>
+  <li><a href="#vínculos-institucionais" id="toc-vínculos-institucionais" class="nav-link" data-scroll-target="#vínculos-institucionais">🔗 Vínculos Institucionais</a></li>
+  <li><a href="#localização" id="toc-localização" class="nav-link" data-scroll-target="#localização">📍 Localização</a></li>
+  <li><a href="#responsável-técnico" id="toc-responsável-técnico" class="nav-link" data-scroll-target="#responsável-técnico">👨‍🔬 Responsável Técnico</a></li>
   </ul>
 </nav>
     </div>
@@ -156,64 +157,99 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="cell">
+<style>
+.flex-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+.logo img {
+  max-width: 200px;
+  height: auto;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+.logo img:hover {
+  transform: scale(1.05);
+}
+.welcome-text {
+  flex: 1;
+  min-width: 280px;
+}
+
+.logos-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  flex-wrap: nowrap;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.logo-item img {
+  width: auto;
+  max-height: 150px;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+.logo-item img:hover {
+  transform: scale(1.08);
+}
+</style>
+</div>
+<hr>
 <section id="boas-vindas" class="level2">
-<h2 class="anchored" data-anchor-id="boas-vindas">Boas-vindas</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 20%">
-<col style="width: 79%">
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><img src="images/clipboard-744475019.jpeg" class="img-fluid"></td>
-<td><p>✨ <strong>Bem-vindo ao LAQUIPE!</strong> 🐟🔬</p>
-<p>Somos o <strong>Laboratório de Química do Pescado da UFPA</strong>, dedicados à ciência, inovação e sustentabilidade dos biorecursos aquáticos. Aqui você encontra:</p>
+<h2 class="anchored" data-anchor-id="boas-vindas">✨ Boas-vindas</h2>
+<div class="flex-container">
+<div class="logo">
+<p><img src="images/logo-laquipe.jpeg" alt="Logo LAQUIPE" width="200px"></p>
+</div>
+<div class="welcome-text">
+<p>✨ <strong>Bem-vindo ao LAQUIPE!</strong> 🐟🔬</p>
+<p>O Laboratório de Química do Pescado (LAQUIPE) desenvolve pesquisas científicas especializadas em química analítica aplicada aos biorecursos aquáticos, com foco em inovação tecnológica e sustentabilidade. Situado no Campus Universitário de Bragança da UFPA, o LAQUIPE atua nas seguintes áreas:</p>
 <ul>
-<li><p>🔍 Pesquisas avançadas em química e tecnologia do pescado;</p></li>
-<li><p>⚙️ Projetos inovadores aplicados à pesca e aquicultura; |</p></li>
-<li><p>🌊 Soluções sustentáveis para o aproveitamento integral dos recursos aquáticos.</p></li>
+<li>🔬 Química e tecnologia avançada do pescado;</li>
+<li>📊 Análises quimiométricas e métodos estatísticos aplicados;</li>
+<li>⚙️ Apoio tecnológico e analítico à pesca, aquicultura e biorecursos aquáticos;</li>
+<li>🌊 Aproveitamento integral sustentável de recursos aquáticos.</li>
 </ul>
-<p>Explore nossas linhas de pesquisa, descubra nossas publicações e participe dessa jornada científica conosco!</p></td>
-</tr>
-</tbody>
-</table>
-<p>O <strong>LAQUIPE</strong> integra a estrutura da Faculdade de Engenharia de Pescado, vinculada ao Instituto de Estudos Costeiros, situado no Campus Universitário de Bragança da Universidade Federal do Pará.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 47%">
-<col style="width: 53%">
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/logo_iecos.png" class="img-fluid figure-img" width="224"></p>
-<figcaption>IECOS</figcaption>
-</figure>
-</div></td>
-<td><div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/ufpa.png" width="222" height="223" class="figure-img"></p>
-<figcaption>UFPA</figcaption>
-</figure>
-</div></td>
-</tr>
-</tbody>
-</table>
+<p><a href="./linhas.html">Conheça nossas linhas de pesquisa</a>, <a href="pesquisas.qmd">acesse nossas publicações</a> e venha construir ciência conosco!</p>
+</div>
+</div>
+<hr>
+</section>
+<section id="vínculos-institucionais" class="level2">
+<h2 class="anchored" data-anchor-id="vínculos-institucionais">🔗 Vínculos Institucionais</h2>
+<p>O Laboratório de Química do Pescado (LAQUIPE) integra a Faculdade de Engenharia de Pescado, vinculada ao Instituto de Estudos Costeiros (IECOS), no Campus Universitário de Bragança da Universidade Federal do Pará (UFPA).</p>
+<div class="logos-container">
+<div class="logo-item">
+<p><img src="images/logo-iecos.png" alt="Logo IECOS" width="192"></p>
+</div>
+<div class="logo-item">
+<p><img src="images/logo-ufpa.png" alt="Logo UFPA" width="182"></p>
+</div>
+</div>
+<hr>
 </section>
 <section id="localização" class="level2">
-<h2 class="anchored" data-anchor-id="localização">Localização</h2>
-<p>O LAQUIPE está localizado na cidade de Bragança-PA, a 200 Km de Belém.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/localizacao.png" class="img-fluid figure-img" width="268"></p>
-<figcaption><a href="https://maps.app.goo.gl/pbVeJAPCz73qdsE36" target="_blanck">Localização</a> do LAQUIPE</figcaption>
-</figure>
+<h2 class="anchored" data-anchor-id="localização">📍 Localização</h2>
+<p>O LAQUIPE está situado na cidade de <strong>Bragança</strong>, no Estado do Pará, a aproximadamente <strong>200 km de Belém</strong>. Nosso laboratório encontra-se no Campus Universitário de Bragança da Universidade Federal do Pará (UFPA), em uma região privilegiada pela diversidade de biorecursos aquáticos.</p>
+<p><a href="https://www.google.com.br/maps/place/Universidade+Federal+do+Par%C3%A1+-+Campus+Bragan%C3%A7a/@-1.0496352,-46.7614787,17z/data=!3m1!4b1!4m6!3m5!1s0x92aedeb3a8384969:0xc7b829e4a7bf8cee!8m2!3d-1.0496352!4d-46.7614787!16s%2Fg%2F1yfj55_1r?entry=ttu&amp;g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D" target="_blank"> <img src="images/mapa-laquipe.png" class="img-fluid" style="max-  margin-top: 10px; transition: transform 0.3s ease;" alt="Mapa de localização do LAQUIPE" width="553"> </a></p>
+<div style="text-align: center; margin-top: 8px;">
+<p><em>🗺️ Clique no mapa para abrir a localização no Google Maps</em></p>
 </div>
+<hr>
 </section>
 <section id="responsável-técnico" class="level2">
-<h2 class="anchored" data-anchor-id="responsável-técnico">Responsável Técnico</h2>
-<p>Prof.&nbsp;Dr.&nbsp;Evaldo Martins da Silva</p>
+<h2 class="anchored" data-anchor-id="responsável-técnico">👨‍🔬 Responsável Técnico</h2>
+<p><strong>Prof.&nbsp;Dr.&nbsp;Evaldo Martins da Silva</strong><br>
+Coordenador do Laboratório de Química do Pescado (LAQUIPE)<br>
+Instituto de Estudos Costeiros (IECOS) — UFPA</p>
 
 
 </section>

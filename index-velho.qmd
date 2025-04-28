@@ -1,0 +1,88 @@
+---
+title: "Laboratório de Química do Pescado - LAQUIPE"
+---
+
+::: cell
+```{=html}
+<style>
+.flex-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 40px;
+  flex-wrap: wrap; /* permite ajuste responsivo sem quebrar muito */
+}
+.logo img {
+  max-width: 200px;
+  height: auto;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3); /* sombra suave */
+  border-radius: 8px;
+}
+.welcome-text {
+  flex: 1;
+  min-width: 280px;
+}
+
+.logos-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  flex-wrap: nowrap; /* NÃO deixa quebrar em telas pequenas */
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.logo-item img {
+  width: auto;
+  max-height: 150px;
+  object-fit: contain;
+}
+</style>
+```
+:::
+
+## Boas-vindas
+
+::::: flex-container
+::: logo
+<img src="images/logo-laquipe.jpeg" alt="Logo LAQUIPE" width="200px"/>
+:::
+
+::: welcome-text
+✨ **Bem-vindo ao LAQUIPE!** 🐟🔬
+
+O Laboratório de Química do Pescado (LAQUIPE) desenvolve pesquisas científicas especializadas em química analítica aplicada aos biorecursos aquáticos, com foco em inovação tecnológica e sustentabilidade. Situado no Campus Universitário de Bragança da UFPA, o LAQUIPE atua nas seguintes áreas:
+
+-   🔬 Química e tecnologia avançada do pescado;
+-   📊 Análises quimiométricas e métodos estatísticos aplicados;
+-   ⚙️ Apoio tecnológico e analítico à pesca, aquicultura e biorecursos aquáticos;
+-   🌊 Aproveitamento integral sustentável de recursos aquáticos.
+
+[Conheça nossas linhas de pesquisa](linhas-de-pesquisa.qmd), [acesse nossas publicações](pesquisas.qmd) e venha construir ciência conosco!
+:::
+:::::
+
+## 🔗 Vínculos Institucionais
+
+O Laboratório de Química do Pescado (LAQUIPE) integra a Faculdade de Engenharia de Pescado, vinculada ao Instituto de Estudos Costeiros (IECOS), no Campus Universitário de Bragança da Universidade Federal do Pará (UFPA).
+
+::::: logos-container
+::: logo-item
+<img src="images/logo-iecos.png" alt="Logo IECOS" width="180px"/>
+:::
+
+::: logo-item
+<img src="images/logo-ufpa.png" alt="Logo UFPA" width="160px"/>
+:::
+:::::
+
+## Localização
+
+O LAQUIPE está localizado na cidade de Bragança-PA, a 200 Km de Belém.
+
+![[Localização](https://maps.app.goo.gl/pbVeJAPCz73qdsE36){target="_blanck"} do LAQUIPE](images/localizacao.png){width="268"}
+
+## Responsável Técnico
+
+Prof. Dr. Evaldo Martins da Silva

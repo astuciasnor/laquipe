@@ -1,35 +1,111 @@
 ---
 title: "Laboratório de Química do Pescado - LAQUIPE"
+format: html
 ---
 
-## Boas-vindas
+::: cell
+```{=html}
+<style>
+.flex-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+.logo img {
+  max-width: 200px;
+  height: auto;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+.logo img:hover {
+  transform: scale(1.05);
+}
+.welcome-text {
+  flex: 1;
+  min-width: 280px;
+}
 
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-744475019.jpeg) | ✨ **Bem-vindo ao LAQUIPE!** 🐟🔬                                                                                                                      |
-|                                      |                                                                                                                                                        |
-|                                      | Somos o **Laboratório de Química do Pescado da UFPA**, dedicados à ciência, inovação e sustentabilidade dos biorecursos aquáticos. Aqui você encontra: |
-|                                      |                                                                                                                                                        |
-|                                      | -    🔍 Pesquisas avançadas em química e tecnologia do pescado;                                                                                        |
-|                                      |                                                                                                                                                        |
-|                                      | -    ⚙️ Projetos inovadores aplicados à pesca e aquicultura;                                                                                           |
-|                                      |                                                                                                                                                        |
-|                                      | -    🌊 Soluções sustentáveis para o aproveitamento integral dos recursos aquáticos.                                                                   |
-|                                      |                                                                                                                                                        |
-|                                      | Explore nossas linhas de pesquisa, descubra nossas publicações e participe dessa jornada científica conosco!                                           |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+.logos-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  flex-wrap: nowrap;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 
-O **LAQUIPE** integra a estrutura da Faculdade de Engenharia de Pescado, vinculada ao Instituto de Estudos Costeiros, situado no Campus Universitário de Bragança da Universidade Federal do Pará.
+.logo-item img {
+  width: auto;
+  max-height: 150px;
+  object-fit: contain;
+  transition: transform 0.3s ease;
+}
+.logo-item img:hover {
+  transform: scale(1.08);
+}
+</style>
+```
+:::
 
-+----------------------------------------------+----------------------------------------------------+
-| ![IECOS](images/logo_iecos.png){width="224"} | ![UFPA](images/ufpa.png){width="222" height="223"} |
-+----------------------------------------------+----------------------------------------------------+
+------------------------------------------------------------------------
 
-## Localização
+## ✨ Boas-vindas
 
-O LAQUIPE está localizado na cidade de Bragança-PA, a 200 Km de Belém.
+::::: flex-container
+::: logo
+<img src="images/logo-laquipe.jpeg" alt="Logo LAQUIPE" width="200px"/>
+:::
 
-![[Localização](https://maps.app.goo.gl/pbVeJAPCz73qdsE36){target="_blanck"} do LAQUIPE](images/localizacao.png){width="268"}
+::: welcome-text
+✨ **Bem-vindo ao LAQUIPE!** 🐟🔬
 
-## Responsável Técnico
+O Laboratório de Química do Pescado (LAQUIPE) desenvolve pesquisas científicas especializadas em química analítica aplicada aos biorecursos aquáticos, com foco em inovação tecnológica e sustentabilidade. Situado no Campus Universitário de Bragança da UFPA, o LAQUIPE atua nas seguintes áreas:
 
-Prof. Dr. Evaldo Martins da Silva
+-   🔬 Química e tecnologia avançada do pescado;
+-   📊 Análises quimiométricas e métodos estatísticos aplicados;
+-   ⚙️ Apoio tecnológico e analítico à pesca, aquicultura e biorecursos aquáticos;
+-   🌊 Aproveitamento integral sustentável de recursos aquáticos.
+
+[Conheça nossas linhas de pesquisa](linhas.qmd), [acesse nossas publicações](pesquisas.qmd) e venha construir ciência conosco!
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## 🔗 Vínculos Institucionais
+
+O Laboratório de Química do Pescado (LAQUIPE) integra a Faculdade de Engenharia de Pescado, vinculada ao Instituto de Estudos Costeiros (IECOS), no Campus Universitário de Bragança da Universidade Federal do Pará (UFPA).
+
+::::: logos-container
+::: logo-item
+<img src="images/logo-iecos.png" alt="Logo IECOS" width="192"/>
+:::
+
+::: logo-item
+<img src="images/logo-ufpa.png" alt="Logo UFPA" width="182"/>
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## 📍 Localização
+
+O LAQUIPE está situado na cidade de **Bragança**, no Estado do Pará, a aproximadamente **200 km de Belém**. Nosso laboratório encontra-se no Campus Universitário de Bragança da Universidade Federal do Pará (UFPA), em uma região privilegiada pela diversidade de biorecursos aquáticos.
+
+<a href="https://www.google.com.br/maps/place/Universidade+Federal+do+Par%C3%A1+-+Campus+Bragan%C3%A7a/@-1.0496352,-46.7614787,17z/data=!3m1!4b1!4m6!3m5!1s0x92aedeb3a8384969:0xc7b829e4a7bf8cee!8m2!3d-1.0496352!4d-46.7614787!16s%2Fg%2F1yfj55_1r?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D" target="_blank"> ![Mapa de localização do LAQUIPE](images/mapa-laquipe.png){alt="Mapa de localização do LAQUIPE" style="max-  margin-top: 10px; transition: transform 0.3s ease;" width="553"} </a>
+
+::: {style="text-align: center; margin-top: 8px;"}
+<em>🗺️ Clique no mapa para abrir a localização no Google Maps</em>
+:::
+
+------------------------------------------------------------------------
+
+## 👨‍🔬 Responsável Técnico
+
+**Prof. Dr. Evaldo Martins da Silva**\
+Coordenador do Laboratório de Química do Pescado (LAQUIPE)\
+Instituto de Estudos Costeiros (IECOS) — UFPA

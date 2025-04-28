@@ -1,18 +1,20 @@
 ---
 title: "Linhas de Pesquisa"
-format: html
 ---
 
-Nesta página, você pode navegar diretamente pelas nossas linhas de pesquisa:
+::: {.callout-note appearance="card" icon="🔬"}
+O LAQUIPE desenvolve suas atividades em quatro principais linhas de pesquisa, que integram diferentes áreas da química, tecnologia, análises estatísticas e sustentabilidade aplicadas aos biorecursos aquáticos:
 
--   [Linha 1 - Processamento de Bio-recursos Aquáticos](#linha-1---processamento-de-bio-recursos-aquáticos)
--   [Linha 2 - Quimiometria Aplicada a Biorecursos Aquáticos](#linha-2---quimiometria-aplicada-a-biorecursos-aquáticos)
--   [Linha 3 - Secagem Solar Sustentável de Bioprodutos Pesqueiros](#linha-3---secagem-solar-sustentável-de-bioprodutos-pesqueiros)
--   [Linha 4 - Grupo de Pesquisa em Estatística Aplicada e Ciência de Dados em R](#linha-4---grupo-de-pesquisa-em-estatística-aplicada-e-ciência-de-dados-em-r)
+-   ⚙️ **Linha 1** – Processamento de Bio-recursos Aquáticos
+-   📊 **Linha 2** – Quimiometria Aplicada a Biorecursos Aquáticos
+-   🌞 **Linha 3** – Secagem Solar Sustentável de Bioprodutos Pesqueiros
+-   📈 **Linha 4** – Estatística Aplicada e Ciência de Dados em R
+:::
 
-------------------------------------------------------------------------
+::: panel-tabset
+## Linha 1
 
-## Linha 1 - Processamento de Bio-recursos Aquáticos {#linha-1---processamento-de-bio-recursos-aquáticos}
+⚙️ **Procesamento de Bio-recursos Aquáticos**
 
 A linha de pesquisa em **Processamento de Biorecursos Aquáticos** explora o desenvolvimento de técnicas e processos tecnológicos para **transformação sustentável** de recursos de origem aquática em produtos de alto valor agregado.
 
@@ -80,7 +82,9 @@ A pesquisa em processamento de biorecursos aquáticos traz benefícios como:
 **Palavras-chave estratégicas:**\
 *Biorrefinaria de pescado, aproveitamento de resíduos pesqueiros, biomoléculas marinhas, colágeno de peixe, quitosana, sustentabilidade na pesca, subprodutos da indústria pesqueira, processos biotecnológicos, óleo de pescado, hidrolisados proteicos, tecnologias limpas.*
 
-## Linha 2: 🧪 Quimiometria Aplicada a Biorecursos Aquáticos
+## Linha 2
+
+🧪 Quimiometria Aplicada a Biorecursos Aquáticos
 
 ![](images/clipboard-3413463858.png){fig-align="center" width="466"}
 
@@ -130,7 +134,9 @@ A combinação da quimiometria com a ciência dos biorecursos aquáticos represe
 -   **Adicionar valor** aos produtos pesqueiros e aquícolas, com foco em qualidade e rastreabilidade.
 -   **Promover a sustentabilidade** no uso de recursos naturais, com técnicas analíticas não destrutivas.
 
-## Linha 3 - Secagem Solar Sustentável de Bioprodutos Pesqueiros {#linha-3---secagem-solar-sustentável-de-bioprodutos-pesqueiros}
+## Linha 3
+
+**🌞Secagem Solar Sustentável de Bioprodutos Pesqueiros**
 
 A secagem solar com painéis fotovoltaicos é uma tecnologia limpa que combina o uso da radiação solar para aquecimento e a geração de energia para ventilação forçada, promovendo a desidratação eficiente de produtos pesqueiros, agrícolas e biológicos. O sistema otimiza o processo de secagem, reduzindo o teor de umidade em menor tempo, preservando a qualidade dos produtos e minimizando o consumo de energia não renovável, contribuindo para a conservação e agregação de valor de bioprodutos.
 
@@ -154,7 +160,9 @@ Preservação de qualidade nutricional, cor e textura.
 ♻️ **Tecnologia sustentável:**\
 Redução do consumo energético e aproveitamento integral de recursos naturais.
 
-## Linha 4 — Grupo de Pesquisa em Estatística Aplicada e Ciência de Dados em R
+## Linha 4
+
+**📈 Grupo de Pesquisa em Estatística Aplicada e Ciência de Dados em R**
 
 ![](images/r-ciencia-dados.png){fig-align="center" width="446"}
 
@@ -175,3 +183,4 @@ Desenvolver rotinas computacionais em R, fortalecer a formação acadêmica e im
 
 🌱 **Impacto Esperado:**\
 Capacitar pesquisadores para enfrentarem desafios científicos complexos, fomentar a inovação nas Ciências Agrárias e Biológicas e ampliar a produção científica do campus.
+:::

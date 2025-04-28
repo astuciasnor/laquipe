@@ -3,7 +3,7 @@ title: "Linhas de Pesquisa"
 ---
 
 ::: {.callout-note appearance="card" icon="🔬"}
-O LAQUIPE desenvolve suas atividades em quatro principais linhas de pesquisa, que integram diferentes áreas da química, tecnologia, análises estatísticas e sustentabilidade aplicadas aos biorecursos aquáticos:
+O **LAQUIPE** desenvolve suas atividades em quatro principais linhas de pesquisa, que integram diferentes áreas da química, tecnologia, análises estatísticas e sustentabilidade aplicadas aos biorecursos aquáticos:
 
 -   ⚙️ **Linha 1** – Processamento de Bio-recursos Aquáticos
 -   📊 **Linha 2** – Quimiometria Aplicada a Biorecursos Aquáticos

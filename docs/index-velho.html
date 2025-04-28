@@ -93,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -128,11 +128,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#boas-vindas" id="toc-boas-vindas" class="nav-link active" data-scroll-target="#boas-vindas">✨ Boas-vindas</a></li>
+  <li><a href="#boas-vindas" id="toc-boas-vindas" class="nav-link active" data-scroll-target="#boas-vindas">Boas-vindas</a></li>
   <li><a href="#vínculos-institucionais" id="toc-vínculos-institucionais" class="nav-link" data-scroll-target="#vínculos-institucionais">🔗 Vínculos Institucionais</a></li>
-  <li><a href="#localização" id="toc-localização" class="nav-link" data-scroll-target="#localização">📍 Localização</a></li>
-  <li><a href="#responsável-técnico" id="toc-responsável-técnico" class="nav-link" data-scroll-target="#responsável-técnico">👨‍🔬 Responsável Técnico</a></li>
-  <li><a href="#contato" id="toc-contato" class="nav-link" data-scroll-target="#contato">📩 Contato</a></li>
+  <li><a href="#localização" id="toc-localização" class="nav-link" data-scroll-target="#localização">Localização</a></li>
+  <li><a href="#responsável-técnico" id="toc-responsável-técnico" class="nav-link" data-scroll-target="#responsável-técnico">Responsável Técnico</a></li>
   </ul>
 </nav>
     </div>
@@ -165,44 +164,38 @@ ul.task-list li input[type="checkbox"] {
   align-items: center;
   gap: 30px;
   margin-bottom: 40px;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* permite ajuste responsivo sem quebrar muito */
 }
 .logo img {
   max-width: 200px;
   height: auto;
-  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3); /* sombra suave */
   border-radius: 8px;
-  transition: transform 0.3s ease;
-}
-.logo img:hover {
-  transform: scale(1.05);
 }
 .welcome-text {
   flex: 1;
   min-width: 280px;
 }
+
 .logos-container {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 50px;
-  flex-wrap: nowrap;
+  flex-wrap: nowrap; /* NÃO deixa quebrar em telas pequenas */
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
 .logo-item img {
   width: auto;
   max-height: 150px;
   object-fit: contain;
-  transition: transform 0.3s ease;
-}
-.logo-item img:hover {
-  transform: scale(1.08);
 }
 </style>
 </div>
 <section id="boas-vindas" class="level2">
-<h2 class="anchored" data-anchor-id="boas-vindas">✨ Boas-vindas</h2>
+<h2 class="anchored" data-anchor-id="boas-vindas">Boas-vindas</h2>
 <div class="flex-container">
 <div class="logo">
 <p><img src="images/logo-laquipe.jpeg" alt="Logo LAQUIPE" width="200px"></p>
@@ -216,7 +209,7 @@ ul.task-list li input[type="checkbox"] {
 <li>⚙️ Apoio tecnológico e analítico à pesca, aquicultura e biorecursos aquáticos;</li>
 <li>🌊 Aproveitamento integral sustentável de recursos aquáticos.</li>
 </ul>
-<p><a href="./linhas.html">Conheça nossas linhas de pesquisa</a>, <a href="pesquisas.qmd">acesse nossas publicações</a> e venha construir ciência conosco!</p>
+<p><a href="linhas-de-pesquisa.qmd">Conheça nossas linhas de pesquisa</a>, <a href="pesquisas.qmd">acesse nossas publicações</a> e venha construir ciência conosco!</p>
 </div>
 </div>
 </section>
@@ -225,34 +218,26 @@ ul.task-list li input[type="checkbox"] {
 <p>O Laboratório de Química do Pescado (LAQUIPE) integra a Faculdade de Engenharia de Pescado, vinculada ao Instituto de Estudos Costeiros (IECOS), no Campus Universitário de Bragança da Universidade Federal do Pará (UFPA).</p>
 <div class="logos-container">
 <div class="logo-item">
-<p><img src="images/logo-iecos.png" alt="Logo IECOS" width="223"></p>
+<p><img src="images/logo-iecos.png" alt="Logo IECOS" width="180px"></p>
 </div>
 <div class="logo-item">
-<p><img src="images/logo-ufpa.png" alt="Logo UFPA" width="221"></p>
+<p><img src="images/logo-ufpa.png" alt="Logo UFPA" width="160px"></p>
 </div>
 </div>
 </section>
 <section id="localização" class="level2">
-<h2 class="anchored" data-anchor-id="localização">📍 Localização</h2>
-<p>O LAQUIPE está situado na cidade de <strong>Bragança</strong>, no Estado do Pará, a aproximadamente <strong>200 km de Belém</strong>. Nosso laboratório encontra-se no Campus Universitário de Bragança da Universidade Federal do Pará (UFPA), em uma região privilegiada pela diversidade de biorecursos aquáticos.</p>
-<div style="text-align: center; margin-top: 10px;">
-<p><a href="https://www.google.com.br/maps/place/Universidade+Federal+do+Par%C3%A1+-+Campus+Bragan%C3%A7a/@-1.0496352,-46.7614787,17z/data=!3m1!4b1!4m6!3m5!1s0x92aedeb3a8384969:0xc7b829e4a7bf8cee!8m2!3d-1.0496352!4d-46.7614787!16s%2Fg%2F1yfj55_1r?entry=ttu&amp;g_ep=EgoyMDI1MDQyMy4wIKXMDSoASAFQAw%3D%3D" target="_blank"> <img src="images/mapa-laquipe.png" alt="Mapa de localização do LAQUIPE" style="max-  border-radius: 12px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease;" width="61%"> </a></p>
-<div style="margin-top: 8px;">
-<p><em>🗺️ Clique no mapa para abrir a localização no Google Maps</em></p>
-</div>
+<h2 class="anchored" data-anchor-id="localização">Localização</h2>
+<p>O LAQUIPE está localizado na cidade de Bragança-PA, a 200 Km de Belém.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/localizacao.png" class="img-fluid figure-img" width="268"></p>
+<figcaption><a href="https://maps.app.goo.gl/pbVeJAPCz73qdsE36" target="_blanck">Localização</a> do LAQUIPE</figcaption>
+</figure>
 </div>
 </section>
 <section id="responsável-técnico" class="level2">
-<h2 class="anchored" data-anchor-id="responsável-técnico">👨‍🔬 Responsável Técnico</h2>
-<p><strong>Prof.&nbsp;Dr.&nbsp;Evaldo Martins da Silva</strong><br>
-Coordenador do Laboratório de Química do Pescado (LAQUIPE)<br>
-Instituto de Estudos Costeiros (IECOS) — UFPA</p>
-</section>
-<section id="contato" class="level2">
-<h2 class="anchored" data-anchor-id="contato">📩 Contato</h2>
-<p>📧 <strong>E-mail:</strong> evaldomartins@ufpa.br<br>
-📍 <strong>Endereço:</strong> Universidade Federal do Pará — Campus Universitário de Bragança, Instituto de Estudos Costeiros (IECOS)<br>
-📞 <strong>Telefone:</strong> (91) 98819-0106</p>
+<h2 class="anchored" data-anchor-id="responsável-técnico">Responsável Técnico</h2>
+<p>Prof.&nbsp;Dr.&nbsp;Evaldo Martins da Silva</p>
 
 
 </section>

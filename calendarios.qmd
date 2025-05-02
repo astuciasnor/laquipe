@@ -5,9 +5,11 @@ format:
 page-layout: full
 ---
 
-\`\`\`{=html} <iframe
+<iframe
   src="resources/calendarios_EP_TODAS_2P_2025_single.html"
   width="100%"
   height="1200"
   style="border:none;"
-  title="Calendários 2P 2025"> </iframe>
+  title="Calendários 2P 2025">
+
+</iframe>

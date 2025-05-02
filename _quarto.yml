@@ -1,8 +1,6 @@
 project:
   type: website
   output-dir: docs 
-  resources: 
-    - resources/*
 
 website:
   title: "LAQUIPE"
@@ -18,7 +16,7 @@ website:
       - text: Blog
         href: blog/index.qmd
       - text: Calendários
-        href: resources/calendarios_EP_TODAS_2P_2025_single.html
+        file: calendarios.qmd
 
 format:
   html:

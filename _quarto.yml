@@ -17,6 +17,8 @@ website:
       - linhas.qmd
       - text: Blog
         href: blog/index.qmd
+      - text: Calendários
+        href: resources/calendarios_EP_TODAS_2P_2025_single.html
 
 format:
   html:

@@ -1,6 +1,8 @@
 project:
   type: website
-  output-dir: docs 
+  output-dir: docs
+  resources: 
+    - resources/*
 
 website:
   title: "LAQUIPE"
@@ -16,7 +18,7 @@ website:
       - text: Blog
         href: blog/index.qmd
       - text: Calendários
-        file: calendarios.qmd
+        file: calendarios.html
 
 format:
   html:

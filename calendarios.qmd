@@ -1,15 +1,29 @@
 ---
-title: "Calendários 2P 2025"
+title: ""
+page-layout: full          # ocupa toda a largura do corpo
 format:
-  html: default
-page-layout: full
+  html:
+    default: true
+    search: false          # desliga a barra/flutuante de busca
 ---
 
-<iframe
-  src="resources/calendarios_EP_TODAS_2P_2025_single.html"
-  width="100%"
-  height="1200"
-  style="border:none;"
-  title="Calendários 2P 2025">
+```{=html}
+<style>
+/* zera margens laterais do artigo */
+main.content, section.content {
+  margin: 0;
+  padding: 0;
+}
+
+/* iframe ocupa toda a largura e evita scroll horizontal */
+iframe.calendarios {
+  width: 100%;
+  height: 1200px;          /* ajuste conforme necessidade */
+  border: none;
+}
+</style>
+```
+
+<iframe class="calendarios" src="/resources/calendarios_EP_TODAS_2P_2025_single.html" title="Calendário FEPESCA – 2P/2025">
 
 </iframe>
